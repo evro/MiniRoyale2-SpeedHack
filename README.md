@@ -13,4 +13,6 @@ for i in range(3):
     
     ''Adjust (3) to the amount of times you want the script to be repeated.''
     
-    Enjoy before patch.
+    Enjoy before patch. 
+    
+    ~euro
